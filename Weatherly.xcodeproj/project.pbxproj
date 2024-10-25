@@ -7,40 +7,40 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		93DD22092CCB547A0006C252 /* PBXContainerItemProxy */ = {
+		93C9E7412CCB5C0C00FB8136 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 93DD21F02CCB54790006C252 /* Project object */;
+			containerPortal = 93C9E7282CCB5C0A00FB8136 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 93DD21F72CCB54790006C252;
+			remoteGlobalIDString = 93C9E72F2CCB5C0A00FB8136;
 			remoteInfo = Weatherly;
 		};
-		93DD22132CCB547A0006C252 /* PBXContainerItemProxy */ = {
+		93C9E74B2CCB5C0C00FB8136 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 93DD21F02CCB54790006C252 /* Project object */;
+			containerPortal = 93C9E7282CCB5C0A00FB8136 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 93DD21F72CCB54790006C252;
+			remoteGlobalIDString = 93C9E72F2CCB5C0A00FB8136;
 			remoteInfo = Weatherly;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		93DD21F82CCB54790006C252 /* Weatherly.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weatherly.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		93DD22082CCB547A0006C252 /* WeatherlyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherlyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		93DD22122CCB547A0006C252 /* WeatherlyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherlyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		93C9E7302CCB5C0A00FB8136 /* Weatherly.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weatherly.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		93C9E7402CCB5C0C00FB8136 /* WeatherlyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherlyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		93C9E74A2CCB5C0C00FB8136 /* WeatherlyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherlyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		93DD21FA2CCB54790006C252 /* Weatherly */ = {
+		93C9E7322CCB5C0A00FB8136 /* Weatherly */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Weatherly;
 			sourceTree = "<group>";
 		};
-		93DD220B2CCB547A0006C252 /* WeatherlyTests */ = {
+		93C9E7432CCB5C0C00FB8136 /* WeatherlyTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = WeatherlyTests;
 			sourceTree = "<group>";
 		};
-		93DD22152CCB547A0006C252 /* WeatherlyUITests */ = {
+		93C9E74D2CCB5C0C00FB8136 /* WeatherlyUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = WeatherlyUITests;
 			sourceTree = "<group>";
@@ -48,21 +48,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		93DD21F52CCB54790006C252 /* Frameworks */ = {
+		93C9E72D2CCB5C0A00FB8136 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		93DD22052CCB547A0006C252 /* Frameworks */ = {
+		93C9E73D2CCB5C0C00FB8136 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		93DD220F2CCB547A0006C252 /* Frameworks */ = {
+		93C9E7472CCB5C0C00FB8136 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		93DD21EF2CCB54790006C252 = {
+		93C9E7272CCB5C0A00FB8136 = {
 			isa = PBXGroup;
 			children = (
-				93DD21FA2CCB54790006C252 /* Weatherly */,
-				93DD220B2CCB547A0006C252 /* WeatherlyTests */,
-				93DD22152CCB547A0006C252 /* WeatherlyUITests */,
-				93DD21F92CCB54790006C252 /* Products */,
+				93C9E7322CCB5C0A00FB8136 /* Weatherly */,
+				93C9E7432CCB5C0C00FB8136 /* WeatherlyTests */,
+				93C9E74D2CCB5C0C00FB8136 /* WeatherlyUITests */,
+				93C9E7312CCB5C0A00FB8136 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		93DD21F92CCB54790006C252 /* Products */ = {
+		93C9E7312CCB5C0A00FB8136 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				93DD21F82CCB54790006C252 /* Weatherly.app */,
-				93DD22082CCB547A0006C252 /* WeatherlyTests.xctest */,
-				93DD22122CCB547A0006C252 /* WeatherlyUITests.xctest */,
+				93C9E7302CCB5C0A00FB8136 /* Weatherly.app */,
+				93C9E7402CCB5C0C00FB8136 /* WeatherlyTests.xctest */,
+				93C9E74A2CCB5C0C00FB8136 /* WeatherlyUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		93DD21F72CCB54790006C252 /* Weatherly */ = {
+		93C9E72F2CCB5C0A00FB8136 /* Weatherly */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 93DD221C2CCB547A0006C252 /* Build configuration list for PBXNativeTarget "Weatherly" */;
+			buildConfigurationList = 93C9E7542CCB5C0C00FB8136 /* Build configuration list for PBXNativeTarget "Weatherly" */;
 			buildPhases = (
-				93DD21F42CCB54790006C252 /* Sources */,
-				93DD21F52CCB54790006C252 /* Frameworks */,
-				93DD21F62CCB54790006C252 /* Resources */,
+				93C9E72C2CCB5C0A00FB8136 /* Sources */,
+				93C9E72D2CCB5C0A00FB8136 /* Frameworks */,
+				93C9E72E2CCB5C0A00FB8136 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				93DD21FA2CCB54790006C252 /* Weatherly */,
+				93C9E7322CCB5C0A00FB8136 /* Weatherly */,
 			);
 			name = Weatherly;
 			packageProductDependencies = (
 			);
 			productName = Weatherly;
-			productReference = 93DD21F82CCB54790006C252 /* Weatherly.app */;
+			productReference = 93C9E7302CCB5C0A00FB8136 /* Weatherly.app */;
 			productType = "com.apple.product-type.application";
 		};
-		93DD22072CCB547A0006C252 /* WeatherlyTests */ = {
+		93C9E73F2CCB5C0C00FB8136 /* WeatherlyTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 93DD221F2CCB547A0006C252 /* Build configuration list for PBXNativeTarget "WeatherlyTests" */;
+			buildConfigurationList = 93C9E7572CCB5C0C00FB8136 /* Build configuration list for PBXNativeTarget "WeatherlyTests" */;
 			buildPhases = (
-				93DD22042CCB547A0006C252 /* Sources */,
-				93DD22052CCB547A0006C252 /* Frameworks */,
-				93DD22062CCB547A0006C252 /* Resources */,
+				93C9E73C2CCB5C0C00FB8136 /* Sources */,
+				93C9E73D2CCB5C0C00FB8136 /* Frameworks */,
+				93C9E73E2CCB5C0C00FB8136 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				93DD220A2CCB547A0006C252 /* PBXTargetDependency */,
+				93C9E7422CCB5C0C00FB8136 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				93DD220B2CCB547A0006C252 /* WeatherlyTests */,
+				93C9E7432CCB5C0C00FB8136 /* WeatherlyTests */,
 			);
 			name = WeatherlyTests;
 			packageProductDependencies = (
 			);
 			productName = WeatherlyTests;
-			productReference = 93DD22082CCB547A0006C252 /* WeatherlyTests.xctest */;
+			productReference = 93C9E7402CCB5C0C00FB8136 /* WeatherlyTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		93DD22112CCB547A0006C252 /* WeatherlyUITests */ = {
+		93C9E7492CCB5C0C00FB8136 /* WeatherlyUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 93DD22222CCB547A0006C252 /* Build configuration list for PBXNativeTarget "WeatherlyUITests" */;
+			buildConfigurationList = 93C9E75A2CCB5C0C00FB8136 /* Build configuration list for PBXNativeTarget "WeatherlyUITests" */;
 			buildPhases = (
-				93DD220E2CCB547A0006C252 /* Sources */,
-				93DD220F2CCB547A0006C252 /* Frameworks */,
-				93DD22102CCB547A0006C252 /* Resources */,
+				93C9E7462CCB5C0C00FB8136 /* Sources */,
+				93C9E7472CCB5C0C00FB8136 /* Frameworks */,
+				93C9E7482CCB5C0C00FB8136 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				93DD22142CCB547A0006C252 /* PBXTargetDependency */,
+				93C9E74C2CCB5C0C00FB8136 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				93DD22152CCB547A0006C252 /* WeatherlyUITests */,
+				93C9E74D2CCB5C0C00FB8136 /* WeatherlyUITests */,
 			);
 			name = WeatherlyUITests;
 			packageProductDependencies = (
 			);
 			productName = WeatherlyUITests;
-			productReference = 93DD22122CCB547A0006C252 /* WeatherlyUITests.xctest */;
+			productReference = 93C9E74A2CCB5C0C00FB8136 /* WeatherlyUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		93DD21F02CCB54790006C252 /* Project object */ = {
+		93C9E7282CCB5C0A00FB8136 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					93DD21F72CCB54790006C252 = {
+					93C9E72F2CCB5C0A00FB8136 = {
 						CreatedOnToolsVersion = 16.0;
 					};
-					93DD22072CCB547A0006C252 = {
+					93C9E73F2CCB5C0C00FB8136 = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = 93DD21F72CCB54790006C252;
+						TestTargetID = 93C9E72F2CCB5C0A00FB8136;
 					};
-					93DD22112CCB547A0006C252 = {
+					93C9E7492CCB5C0C00FB8136 = {
 						CreatedOnToolsVersion = 16.0;
-						TestTargetID = 93DD21F72CCB54790006C252;
+						TestTargetID = 93C9E72F2CCB5C0A00FB8136;
 					};
 				};
 			};
-			buildConfigurationList = 93DD21F32CCB54790006C252 /* Build configuration list for PBXProject "Weatherly" */;
+			buildConfigurationList = 93C9E72B2CCB5C0A00FB8136 /* Build configuration list for PBXProject "Weatherly" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 93DD21EF2CCB54790006C252;
+			mainGroup = 93C9E7272CCB5C0A00FB8136;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 93DD21F92CCB54790006C252 /* Products */;
+			productRefGroup = 93C9E7312CCB5C0A00FB8136 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				93DD21F72CCB54790006C252 /* Weatherly */,
-				93DD22072CCB547A0006C252 /* WeatherlyTests */,
-				93DD22112CCB547A0006C252 /* WeatherlyUITests */,
+				93C9E72F2CCB5C0A00FB8136 /* Weatherly */,
+				93C9E73F2CCB5C0C00FB8136 /* WeatherlyTests */,
+				93C9E7492CCB5C0C00FB8136 /* WeatherlyUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		93DD21F62CCB54790006C252 /* Resources */ = {
+		93C9E72E2CCB5C0A00FB8136 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		93DD22062CCB547A0006C252 /* Resources */ = {
+		93C9E73E2CCB5C0C00FB8136 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		93DD22102CCB547A0006C252 /* Resources */ = {
+		93C9E7482CCB5C0C00FB8136 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		93DD21F42CCB54790006C252 /* Sources */ = {
+		93C9E72C2CCB5C0A00FB8136 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		93DD22042CCB547A0006C252 /* Sources */ = {
+		93C9E73C2CCB5C0C00FB8136 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		93DD220E2CCB547A0006C252 /* Sources */ = {
+		93C9E7462CCB5C0C00FB8136 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		93DD220A2CCB547A0006C252 /* PBXTargetDependency */ = {
+		93C9E7422CCB5C0C00FB8136 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 93DD21F72CCB54790006C252 /* Weatherly */;
-			targetProxy = 93DD22092CCB547A0006C252 /* PBXContainerItemProxy */;
+			target = 93C9E72F2CCB5C0A00FB8136 /* Weatherly */;
+			targetProxy = 93C9E7412CCB5C0C00FB8136 /* PBXContainerItemProxy */;
 		};
-		93DD22142CCB547A0006C252 /* PBXTargetDependency */ = {
+		93C9E74C2CCB5C0C00FB8136 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 93DD21F72CCB54790006C252 /* Weatherly */;
-			targetProxy = 93DD22132CCB547A0006C252 /* PBXContainerItemProxy */;
+			target = 93C9E72F2CCB5C0A00FB8136 /* Weatherly */;
+			targetProxy = 93C9E74B2CCB5C0C00FB8136 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		93DD221A2CCB547A0006C252 /* Debug */ = {
+		93C9E7522CCB5C0C00FB8136 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		93DD221B2CCB547A0006C252 /* Release */ = {
+		93C9E7532CCB5C0C00FB8136 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -388,7 +388,7 @@
 			};
 			name = Release;
 		};
-		93DD221D2CCB547A0006C252 /* Debug */ = {
+		93C9E7552CCB5C0C00FB8136 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -417,7 +417,7 @@
 			};
 			name = Debug;
 		};
-		93DD221E2CCB547A0006C252 /* Release */ = {
+		93C9E7562CCB5C0C00FB8136 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -446,7 +446,7 @@
 			};
 			name = Release;
 		};
-		93DD22202CCB547A0006C252 /* Debug */ = {
+		93C9E7582CCB5C0C00FB8136 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -465,7 +465,7 @@
 			};
 			name = Debug;
 		};
-		93DD22212CCB547A0006C252 /* Release */ = {
+		93C9E7592CCB5C0C00FB8136 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -484,7 +484,7 @@
 			};
 			name = Release;
 		};
-		93DD22232CCB547A0006C252 /* Debug */ = {
+		93C9E75B2CCB5C0C00FB8136 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -501,7 +501,7 @@
 			};
 			name = Debug;
 		};
-		93DD22242CCB547A0006C252 /* Release */ = {
+		93C9E75C2CCB5C0C00FB8136 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -521,43 +521,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		93DD21F32CCB54790006C252 /* Build configuration list for PBXProject "Weatherly" */ = {
+		93C9E72B2CCB5C0A00FB8136 /* Build configuration list for PBXProject "Weatherly" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				93DD221A2CCB547A0006C252 /* Debug */,
-				93DD221B2CCB547A0006C252 /* Release */,
+				93C9E7522CCB5C0C00FB8136 /* Debug */,
+				93C9E7532CCB5C0C00FB8136 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		93DD221C2CCB547A0006C252 /* Build configuration list for PBXNativeTarget "Weatherly" */ = {
+		93C9E7542CCB5C0C00FB8136 /* Build configuration list for PBXNativeTarget "Weatherly" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				93DD221D2CCB547A0006C252 /* Debug */,
-				93DD221E2CCB547A0006C252 /* Release */,
+				93C9E7552CCB5C0C00FB8136 /* Debug */,
+				93C9E7562CCB5C0C00FB8136 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		93DD221F2CCB547A0006C252 /* Build configuration list for PBXNativeTarget "WeatherlyTests" */ = {
+		93C9E7572CCB5C0C00FB8136 /* Build configuration list for PBXNativeTarget "WeatherlyTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				93DD22202CCB547A0006C252 /* Debug */,
-				93DD22212CCB547A0006C252 /* Release */,
+				93C9E7582CCB5C0C00FB8136 /* Debug */,
+				93C9E7592CCB5C0C00FB8136 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		93DD22222CCB547A0006C252 /* Build configuration list for PBXNativeTarget "WeatherlyUITests" */ = {
+		93C9E75A2CCB5C0C00FB8136 /* Build configuration list for PBXNativeTarget "WeatherlyUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				93DD22232CCB547A0006C252 /* Debug */,
-				93DD22242CCB547A0006C252 /* Release */,
+				93C9E75B2CCB5C0C00FB8136 /* Debug */,
+				93C9E75C2CCB5C0C00FB8136 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 93DD21F02CCB54790006C252 /* Project object */;
+	rootObject = 93C9E7282CCB5C0A00FB8136 /* Project object */;
 }
